@@ -1,0 +1,12 @@
+# Build output
+/portscan
+/dist/
+*.exe
+*.out
+*.test
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
