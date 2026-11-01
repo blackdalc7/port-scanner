@@ -1,5 +1,7 @@
 # port-scanner
 
+[![CI](https://github.com/blackdalc7/port-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/blackdalc7/port-scanner/actions/workflows/ci.yml)
+
 A small, concurrent **TCP connect** port scanner written in Go, using only the
 standard library. It is a learning project: enough to be genuinely useful on a
 home lab, small enough to read in one sitting.
